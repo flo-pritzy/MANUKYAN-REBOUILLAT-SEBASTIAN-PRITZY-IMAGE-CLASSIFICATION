@@ -11,7 +11,7 @@ The subject of our project was :
 - Desirable: Use Albumenatations for image augmentation (example); make some photos and test your model on them; test your model on random pictures of landscapes/inside-outside environments/etc; provide possible marketing ideas of it.
 
 
-### Explication about the project  
+### Explanations about the project  
 
 The instructions we got are, with a dataset of images, to create a multilabel classification model using a pretrained model (with at least 3 classes).
 We also had to use built-in data augmentation functions from tensorflow, make some photos and test the model on them.  
